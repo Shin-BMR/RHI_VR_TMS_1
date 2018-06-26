@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modules>
+	<leapmotion>
+		<subsystem>
+			<leapmotion>true</leaptmotion>
+		</subsystem>
+		<name>LeapMotion</name>
+	</leapmotion>
+    <7-Application-02-SpatialTouch>
+        <handprop>    
+            <m_vec3ZeroToSensor_x>0.0</m_vec3ZeroToSensor_x>
+            <m_vec3ZeroToSensor_y>0.0</m_vec3ZeroToSensor_y>
+            <m_vec3ZeroToSensor_z>1.65</m_vec3ZeroToSensor_z>
+        </handprop>
+    </7-Application-02-SpatialTouch>
+</modules>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coexistence>
+	<usercount>2</usercount>
+	<userindex>1</userindex>
+	<systemgroup>
+		<system>
+			<systemindex> 1 </systemindex>
+			<pos>	
+				<x>0.0</x>
+				<y>0.0</y>
+				<z>1.0</z>
+			</pos>
+			<ori>
+				<x>0.0</x>
+				<y>0.0</y>
+				<z>0.0</z>	
+			</ori>
+		</system>
+		<system>
+			<systemindex> 2 </systemindex>
+			<pos>	
+				<x>0.0</x>
+				<y>0.0</y>
+				<z>-100.0</z>
+			</pos>
+			<ori>
+				<x>0.0</x>
+				<y>0.0</y>
+				<z>0.0</z>	
+			</ori>
+		</system>
+	</systemgroup>
+	<sensorgroup>
+		<system>
+			<sensorindex> 1 </sensorindex>
+			<scale>	
+				<x>1.00</x>
+				<y>1.00</y>
+				<z>1.00</z>
+			</scale>
+		</system>
+	</sensorgroup>	
+</coexistence>

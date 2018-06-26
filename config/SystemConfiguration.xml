@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system>
+    <logging>
+        <level>debug</level>
+    </logging>
+
+    <systemindex>1</systemindex>
+    <sceneconfiguration>
+        <scenenumber>1</scenenumber>
+        <scene>
+            <pos>
+                <x>0.0</x>
+                <y>0.0</y>
+                <z>2.0</z>
+            </pos>
+        </scene>
+    </sceneconfiguration>
+
+    <dynamic_modules>
+		<module>
+            <id>leapmotion</id>
+        </module>
+		<module>
+            <id>openvr</id>	
+        </module>
+        <application>
+            <id>7-Application-10-RHI_VR_TMS</id>
+        </application>
+    </dynamic_modules>
+</system>

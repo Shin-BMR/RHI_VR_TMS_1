@@ -1,0 +1,10 @@
+{
+    "information":
+    {
+        "category" : "application",
+        "name": "Example: 7-Application-02-SpatialTouch",
+        "author": "YongHo Lee <jason0720@chic.re.kr>",
+        "version": "0.1",
+        "description": "This is 7-Application-02-SpatialTouch example."
+    }
+}
